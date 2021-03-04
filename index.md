@@ -1,22 +1,7 @@
-## Welcome to Computational Chemistry Website
+## Computational Chemistry 
 
-Here, 
-This is a math
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" title="\Psi = \sum_{i = 1}^{n}\phi _{i}" /></a>
-
-
-```math
-a^2+b^2=c^2 
-``` 
-
-You can insert some formula $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$ in the middle of a sentence.
-
-You can also put large formulas in their own paragraph.
-
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
-
-That's it!
+# Hartree-Fock Method: 
+The core of computational chemistry 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
