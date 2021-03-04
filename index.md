@@ -2,7 +2,9 @@
 
 Here, 
 This is a math  
-\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" title="\Psi = \sum_{i = 1}^{n}\phi _{i}" /></a>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
