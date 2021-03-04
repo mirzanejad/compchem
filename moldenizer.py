@@ -108,7 +108,7 @@ if __name__ == "__main__":
     print(" |      ++  MOldenizer  ++      |" , file=out)
     print(" |      ++++++++++++++++++      |" , file=out)
     print(" |      By Amir Mirzanejad      |" , file=out)
-    print(" |    mirzanejad2004@gmailcom   |" , file=out)
+    print(" |    mirzanejad2004@gmail.com  |" , file=out)
     print(" |                              |" , file=out)
     print(" |    &  Olajumoke Dunsin       |" , file=out)
     print(" |  olajumoke.dunsin@gmail.com  |" , file=out)
