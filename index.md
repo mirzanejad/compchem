@@ -9,7 +9,7 @@ This is a math
 ```math
 a^2+b^2=c^2
 ``` 
-\dot{x} & = \sigma(y-x) \\
+you can use an inline formula $$\forall x \in R$$ like this one
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
