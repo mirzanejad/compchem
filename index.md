@@ -1,7 +1,7 @@
 ## Welcome to Computational Chemistry Website
 
 Here, 
-This is a math  
+This is a math
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Psi&space;=&space;\sum_{i&space;=&space;1}^{n}\phi&space;_{i}" title="\Psi = \sum_{i = 1}^{n}\phi _{i}" /></a>
 
