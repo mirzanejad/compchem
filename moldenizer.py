@@ -4,7 +4,7 @@ import argparse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="This script analyzes a user given molden file and outputs the contribution of AOs in MOs.")
-    parser.add_argument("molden_file", help="The filepath for the xyz file to analyze.")
+    parser.add_argument("molden_file", help="The molden file to analyze.")
     args = parser.parse_args()
     moldenfilename = args.molden_file
     path, file = os.path.split(moldenfilename)
