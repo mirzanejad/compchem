@@ -9,6 +9,9 @@ This is a math
 ```math
 a^2+b^2=c^2 
 ``` 
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 you can use an inline formula $$\forall x \in R$$ like this one
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
