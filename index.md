@@ -8,7 +8,7 @@ This is a math
 
 ```math
 a^2+b^2=c^2
-```
+``` 
 
 $ \sum_{\forall i}{x_i^{2}} $
 
