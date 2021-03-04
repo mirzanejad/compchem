@@ -7,7 +7,7 @@ This is a math
 
 
 ```math
-a^2+b^2=c^2
+a^2+b^2=c^2 
 ``` 
 you can use an inline formula $$\forall x \in R$$ like this one
 
