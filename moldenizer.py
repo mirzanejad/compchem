@@ -13,7 +13,6 @@ if __name__ == "__main__":
     searchlines = f.readlines()
     f.close()
     atoms_inf = []
-    atoms_n = [] 
     Atm_Orb = []
     MOs_lines = []
     MO_occ = []
@@ -21,9 +20,6 @@ if __name__ == "__main__":
     MO_en = []
     MO_sym = []
     ex1 = []
-    ex2 = []
-    RES_sum = []
-    RES_COEF_SQR_PER_SUM = []
     MO_coefficients = []
     MO_orbitals = []
 
