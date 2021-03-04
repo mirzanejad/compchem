@@ -10,7 +10,13 @@ This is a math
 a^2+b^2=c^2
 ``` 
 
-$ \sum_{\forall i}{x_i^{2}} $
+<script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
+
+$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
