@@ -150,8 +150,6 @@ if __name__ == "__main__":
             final_matrix = np.array(np.concatenate((v1,v2), axis=1))
             sort1 = final_matrix[np.argsort(final_matrix[:, 1])[::-1]]
             np.set_printoptions(threshold=np.inf)
-            #print(F"  THIS MO IS EXCLUSIVELY {str(sort1)[3:-1].split()[0:1]} IN CHARACTER", file=out)
-            #print(" ", file=out)
             print("*  Atom * Orb *** Percent ***", file=out)
             print("-----------------------------", file=out)
             #print(sqr_sum)
@@ -162,7 +160,6 @@ if __name__ == "__main__":
                     print(end="\n", file=out)
                     print("-----------------------------", file=out)
             print(F"Molecular Orbital {ii+1} out of {len(MOs_lines)} is done!")
-            #print("*************************************************", file=out)
             MO_coefficients = []
             ex1 = []
             MO_orbitals = []
