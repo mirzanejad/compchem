@@ -116,9 +116,10 @@ if __name__ == "__main__":
     print(F' Input File:  {path}/{os.path.basename(f.name)}', file=out)
     print(F' Output File: {path}/{os.path.basename((f.name).split(".")[0])}.txt', file=out)
     print(" \n" , file=out)
+    print(" **** The current version of code is still under development ***" , file=out)
     print(" Attention for unrestricted input files:" , file=out)
     print(" ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" , file=out)
-    print(" + Alpha-spin orbitals are listed prior to Beta-spin orbitals +" , file=out)
+    print(" + Alpha-spin orbitals are listed prior to Beta-spin orbitals +" , file=out) 
     print(" ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" , file=out)
     for ii in range(0, len(MOs_lines)):
         if int(MOs_lines[ii]) <= int(MOs_lines[-1]):
