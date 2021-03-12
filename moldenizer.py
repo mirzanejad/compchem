@@ -150,7 +150,7 @@ if __name__ == "__main__":
             print("-----------------------------", file=out)
             #print(sqr_sum)
             for a in sort1:
-                if float(a[1]) > 1: 
+                if float(a[1]) > 1.0: 
                     for elem in a:
                         print("   {}".format(elem).ljust(15), end="", file=out)
                     print(end="\n", file=out)
