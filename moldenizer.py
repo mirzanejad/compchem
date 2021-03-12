@@ -106,7 +106,7 @@ if __name__ == "__main__":
     print(" |      By Amir Mirzanejad      |" , file=out)
     print(" |    mirzanejad2004@gmail.com  |" , file=out)
     print(" |                              |" , file=out)
-    print(" |    &  Olajumoke Dunsin       |" , file=out)
+    print(" |    &  Olajumoke Adeyiga      |" , file=out)
     print(" |  olajumoke.dunsin@gmail.com  |" , file=out)
     print(" |                              |" , file=out)
     print(" |         Feb. 2021            |" , file=out)
@@ -131,7 +131,7 @@ if __name__ == "__main__":
             print("\n", file=out)
             print("*************************************************", file=out)
             print(F"  Sum over coefficients in MO# {ii+1}  is: ", '{:.2f}'.format(float(sqr_sum)), file=out)
-            print(F"  En. {str(MO_en[ii]).split()[0]} H, {float(str(MO_en[ii]).split()[0])*630} kcal/mol", file=out)
+            print(F"  En. {str(MO_en[ii]).split()[0]} Ha, {'{:.6f}'.format(float(str(MO_en[ii]).split()[0])*630)} kcal/mol", file=out)
             print(F"  OCC. {'{:.2f}'.format(float(MO_occ[ii]))}", file=out)
             print(F"  Sym. {str(MO_sym[ii]).split()[0]}", file=out) 
             if float(MO_occ[ii]) > 1.00:
