@@ -156,7 +156,7 @@ if __name__ == "__main__":
                         print("   {}".format(elem).ljust(15), end="", file=out)
                     print(end="\n", file=out)
                     print("-----------------------------", file=out)
-            print(F"Molecular Orbital {ii+1} out of {len(MOs_lines)} is done!")
+            print(F"Molecular Orbital {ii+1} out of {len(MOs_lines)} ... ")
             MO_coefficients = []
             ex1 = []
             MO_orbitals = []
